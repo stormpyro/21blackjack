@@ -1,6 +1,6 @@
 # 21 Blackjack
 
-Esta es una pequeña aplicación echa en vainilla JS del juego 21 blackjack.
+Esta es una pequeña aplicación echa en vanilla JS del juego 21 blackjack.
 
 Las reglas son:
 
